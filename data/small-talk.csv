@@ -1,0 +1,9 @@
+QuestionID,Question,Answer
+Q1,how are you,"I'm doing well, thanks! How can I help you today?"
+Q2,what can you do,"I can recommend songs by genre or artist, show you popular songs or songs similar to one you like, keep a recommendation list for you, and answer general knowledge questions."
+Q3,tell me a joke,"Why did the music teacher need a ladder? To reach the high notes!"
+Q4,good morning,"Good morning!"
+Q5,what's up,"The sky! But seriously, how can I help?"
+Q6,what's my name,"Your name is {name}."
+Q7,hi,"Hi! How can I help you today?"
+Q8,hello,"Hello! What can I do for you?"

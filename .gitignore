@@ -1,0 +1,16 @@
+# Datasets that aren't redistributed (see data/README.md)
+data/spotify-songs.csv
+data/COMP3074-CW1-Dataset.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and editor/OS files
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
